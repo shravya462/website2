@@ -1,0 +1,21 @@
+
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin-left:-1088px;
+	}
+table,tr,th {
+    border: 1px solid black;
+	margin-left: -5px;
+}
+table,tr,td {
+	border: 1px solid black;
+	height:2px;
+	text-algin:center;
+}
+th{	
+	background-color:#1E90FF;	        
+	border: 1px solid black;
+	color:white;
+}
